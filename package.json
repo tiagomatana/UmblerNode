@@ -9,7 +9,7 @@
     "start": "node app"
 
   },
-  "author": "Leonardo Leitão",
+  "author": "Tiago Matana",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -19,7 +19,10 @@
     "mongoose": "^4.7.0",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.5",
-    "pm2": "^2.1.5"
+    "pm2": "^2.1.5",
+    "check-node-version": "^2.1.0",
+    "cluster": "^0.7.7",
+    "os": "^0.1.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
