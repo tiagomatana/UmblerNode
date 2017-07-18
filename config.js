@@ -1,4 +1,4 @@
->th = require('path'),
+var path = require('path'),
     config;
 
 config = {
